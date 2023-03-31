@@ -5,7 +5,7 @@ Automatically bump the version in setup.py, optionally creating a commit and tag
 ## Installation
 
 ```bash
-pip install bump-version
+pip install auto-bump-version
 ```
 
 ## Usage
