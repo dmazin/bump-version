@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="bump-version",
+    name="auto-bump-version",
     version='0.0.1',
     description="A command-line tool to automatically bump the version of a Python project",
     long_description=open("README.md").read(),
